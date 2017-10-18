@@ -5,8 +5,8 @@
     "id": "cordova-plugin-smbfile",
     "platforms": [
       "android",
-      "ios",
-    ],
+      "ios"
+    ]
   },
   "description": "Cordova plugin for SMB file"
 }
